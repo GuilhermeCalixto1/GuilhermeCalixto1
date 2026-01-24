@@ -10,7 +10,8 @@
 </ul>
 
 <div align="center">
-  
+  <img height="243em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCalixto1&layout=donut&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCalixto1&show_icons=true&theme=transparent"/>
 </div>
 
 <br>
