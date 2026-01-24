@@ -5,13 +5,13 @@
   <li>💻 Engenharia de Software 2º período</li>
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="18px"/>
-    Estudando Javascript
+     Estudando Javascript
   </li>
 </ul>
 
 <div align="center">
-  <img height="243em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCalixto1&layout=donut&theme=transparent&v=1"/>
-  <img height="243em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCalixto1&show_icons=true&theme=transparent&v=1"/>
+  <img height="243em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCalixto1&layout=donut&theme=transparent&hide_border=true"/>
+  <img height="243em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCalixto1&show_icons=true&theme=transparent&hide_border=true"/>
 </div>
 
 <br>
