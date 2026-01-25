@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-calixto-544b8a1b6" target="_blank"> 
+  <a href="https://www.linkedin.com/in/guilhermecalixto1" target="_blank"> 
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> 
   </a>        
 </div>
