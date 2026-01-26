@@ -4,8 +4,9 @@
   <li>📖 Estudante</li>
   <li>💻 Engenharia de Software 2º período</li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="18px"/>
-     Estudando Javascript
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="22em" />
+   Estudando React
   </li>
 </ul>
 
